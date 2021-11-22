@@ -1,0 +1,2 @@
+# bedrock_server_how_to
+bedrock_server_how_to.html的中文翻译
