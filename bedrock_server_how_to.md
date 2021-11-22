@@ -1,10 +1,3 @@
----
-title: 如何使用Bedrock Dedicated Server
-date: 2021-11-21 13:55:56
-categories:
-  - 开发日记
----
-
 注：本页面翻译自微软所发行的Bedrock Dedicated Server压缩包内的`bedrock_server_how_to.html`，若有翻译不准确您可以在此留言
 
 # 如何使用基岩版专用服务端
